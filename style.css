@@ -1,0 +1,39 @@
+h1 {
+    color: brown;
+    border:dashed black
+}
+
+.cool{
+background-color: azure;
+display:flex;
+justify-content: space-between;
+}
+
+.square{
+display:flex;
+justify-content:space-evenly ;
+flex-wrap:wrap
+
+
+}
+
+.circle{
+display:flex;
+justify-content:flex-end ;
+
+}
+
+p,h2{
+text-align: center;
+
+}
+
+h2{
+text-decoration:underline ;
+letter-spacing:3px
+}
+
+p{
+opacity:1
+
+}
